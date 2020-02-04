@@ -6,4 +6,5 @@ package com.sibylrain;
  * @Description:
  */
 public class Classes {
+    private String name;
 }
